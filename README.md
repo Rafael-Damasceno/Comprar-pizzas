@@ -1,4 +1,4 @@
-# Compra pizzas
+# Comprar pizzas
 > site para estudo do javaScript
 
 
